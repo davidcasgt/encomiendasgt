@@ -75,8 +75,8 @@
   <div class="row">
     <div class="col-sm-2">
          <a class="navbar-brand" href="#">
-    
-<img src="Resources/159283047_250688476707821_7063322513481381832_n.jpg" alt="drive.google.com" style="width:132px;height:132px;">
+   <img src="~/Resources/159283047_250688476707821_7063322513481381832_n.jpg" runat="server" style="width:132px;height:132px;"/> 
+<%--<img src="Resources/159283047_250688476707821_7063322513481381832_n.jpg" alt="drive.google.com" style="width:132px;height:132px;">--%>
               </a>
      </div>
     <div class="col-sm-8">
